@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aamir Husain
 - 👀 I’m interested in web and mobile projects
-- 🌱 I’m currently learning  flutter and 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
